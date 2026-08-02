@@ -1,7 +1,13 @@
 aid: translucent-ai
 name: Translucent AI
-description: 'Translucent AI is a company surfaced as a portfolio company of gv and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  Translucent AI provides an agentic AI platform that acts as a financial
+  operating system for healthcare organizations, unifying claims, labor,
+  clinical output, P&L, budget and forecast, and contract-economics data to
+  deliver real-time financial visibility and automated root cause analysis for
+  finance and clinical teams. The company raised a $27M Series A led by GV,
+  backed by NEA, Virtue, FPV, and Redesign Health. Translucent AI publishes no
+  public API, developer portal, or documentation surface.
 url: https://raw.githubusercontent.com/api-evangelist/translucent-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,12 +15,34 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://cdn.prod.website-files.com/6983d2b1dbf23716da09ec6b/6983d2b1dbf23716da09ece7_Translucent%20-%20Webclip.png
 tags:
 - Company
-- Ai
+- AI
+- Agentic AI
+- Healthcare
+- Healthcare Finance
+- Financial Analytics
+- Revenue Cycle
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +52,15 @@ maintainers:
 common:
 - type: Website
   url: https://www.translucent.ai/
+- type: Blog
+  url: https://www.translucent.ai/blog
+- type: TermsOfService
+  url: https://www.translucent.ai/terms-of-service
+- type: PrivacyPolicy
+  url: https://www.translucent.ai/privacy-policy
+- type: WellKnown
+  url: well-known/translucent-ai-well-known.yml
+- type: LLMsTxt
+  url: llms/translucent-ai-llms.txt
+- type: DomainSecurity
+  url: security/translucent-ai-domain-security.yml

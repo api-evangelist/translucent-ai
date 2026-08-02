@@ -1,0 +1,22 @@
+# Translucent AI
+
+> Translucent AI is an agentic AI platform that acts as a financial operating system for healthcare organizations, unifying claims, labor, clinical output, P&L, budget/forecast, and contract-economics data to deliver real-time financial visibility and automated root cause analysis for finance and clinical teams. The company raised a $27M Series A led by GV, with backing from NEA, Virtue, FPV, and Redesign Health. It publishes no public API, developer portal, or documentation surface.
+
+## Company
+
+- [Website](https://www.translucent.ai/): Product overview — agentic financial operating system for healthcare
+- [Blog](https://www.translucent.ai/blog): Company news and product updates
+- [Careers](https://www.translucent.ai/careers): Open roles
+- [Request a demo](https://www.translucent.ai/book-a-call): Sales contact / demo booking
+
+## Policies
+
+- [Privacy Policy](https://www.translucent.ai/privacy-policy)
+- [Terms & Conditions](https://www.translucent.ai/terms-of-service)
+- [Accessibility](https://www.translucent.ai/accessibility)
+
+## API Evangelist profile
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/translucent-ai/refs/heads/main/apis.yml): Machine-readable profile of this provider in the API Evangelist network
+
+<!-- generated: 2026-07-21 | method: generated | source: apis.yml + https://www.translucent.ai/ (no /llms.txt published; probed 404 2026-07-21) -->
